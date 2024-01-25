@@ -101,6 +101,10 @@ sudo mkdir -p foo/bar/1/2/3 && sudo touch foo/bar/1/2/3/empty
 
 6. (B) Remove the directory "foo" and all of its contents
 
+```sh
+sudo rm -r foo/
+```
+
 7. (B) Print the text "Hello World".
 
 8. (B) Create a file named "hello.txt" that contains the text "Hello World".
