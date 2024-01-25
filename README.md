@@ -137,6 +137,10 @@ rm em*.txt
 
 12. (I) Find a third way to solve challenge 9.
 
+```sh
+unlink empyt.txt
+```
+
 13. (B) Copy "hello.txt" and name the copy "goodbye.txt".
 
 14. (B) Rename "goodby.txt" to "hello_copy.txt".
