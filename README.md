@@ -107,6 +107,10 @@ sudo rm -r foo/
 
 7. (B) Print the text "Hello World".
 
+```sh
+echo "Hello World"
+```
+
 8. (B) Create a file named "hello.txt" that contains the text "Hello World".
 
 9. (B) Create an empty file named "empty.txt"
