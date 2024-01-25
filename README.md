@@ -95,6 +95,10 @@ sudo mkdir foo
 
 5. (I) Create a new directory named "foo/bar/1/2/3"
 
+```sh
+sudo mkdir -p foo/bar/1/2/3 && sudo touch foo/bar/1/2/3/empty
+```
+
 6. (B) Remove the directory "foo" and all of its contents
 
 7. (B) Print the text "Hello World".
